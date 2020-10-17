@@ -11,6 +11,7 @@ namespace _01.NumbersEndingin7
                 if (i % 10 == 7)
                 {
                     Console.WriteLine(i);
+
                 }
             }
         }
