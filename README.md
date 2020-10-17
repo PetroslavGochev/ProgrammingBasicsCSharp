@@ -1,2 +1,2 @@
-# Programing-Basics-C-
+# Programing-Basics-C#
 SoftUni
