@@ -6,11 +6,11 @@ namespace DepositCalculator
     {
         static void Main(string[] args)
         {
-            double deposite = double.Parse(Console.ReadLine());
+            double deposit = double.Parse(Console.ReadLine());
             int month = int.Parse(Console.ReadLine());
             double number = double.Parse(Console.ReadLine());
             double yearsPercent = number / 100;
-            Console.WriteLine(deposite+month*((deposite*yearsPercent)/12));
+            Console.WriteLine(deposit+month*((deposit*yearsPercent)/12));
         }
     }
 }
